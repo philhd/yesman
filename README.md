@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the type of thing that was too dumb to be worth the time in the past. Now that AI can generate it in a few seconds, we have to deal with its existence.
+
+Generated almost entirely by o3-mini-high. The image was made with DALL-E.
 
 ## Getting Started
 
