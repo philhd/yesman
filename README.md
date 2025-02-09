@@ -2,6 +2,10 @@ This is the type of thing that was too dumb to be worth the time in the past. No
 
 Generated almost entirely by o3-mini-high. The image was made with DALL-E.
 
+## [Visit the site](https://my-presidential-kneepads.vercel.app/)
+
+![screen cap of website](kneepads-screencap.png)
+
 ## Getting Started
 
 First, run the development server:
